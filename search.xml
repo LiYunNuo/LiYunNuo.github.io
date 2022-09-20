@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>axios</title>
+      <link href="/posts/a09486d2.html"/>
+      <url>/posts/a09486d2.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install axios</span><br></pre></td></tr></table></figure><h2 id="简单使用"><a href="#简单使用" class="headerlink" title="简单使用"></a>简单使用</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">axios(&#123;</span><br><span class="line">method:&#x27;get&#x27;(默认get请求,可不写),</span><br><span class="line">url:&#x27;接口地址&#x27;,</span><br><span class="line">params:&#123;</span><br><span class="line">(get请求传参)</span><br><span class="line">&#125;</span><br><span class="line">&#125;).then((res)=&gt;&#123;</span><br><span class="line">console.log(res)</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
@@ -21,7 +34,7 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-nselalXt" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1206545866" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-VlDtZArP" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1206545866" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
       
       
@@ -70,7 +83,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-XBXQvgdt" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1206545866" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-mFufIVTT" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1206545866" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
